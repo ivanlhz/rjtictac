@@ -62,7 +62,7 @@ const PageFooter = () => (
           <Text fontWeight="bold">Abierto de Lunes a Viernes</Text>
           <Text>10:00 - 13:00 y de 17:00 - 20:00</Text>
         </Flex>
-        <Image height="200px" width="300px" mt="1rem" />
+        <div></div>
       </Flex>
     </Grid>
   </Box>
